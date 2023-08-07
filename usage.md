@@ -1,4 +1,4 @@
-#Port Scanner
+# Port Scanner
 
 This python script runs on a terminal or any other commad line interface.
 
